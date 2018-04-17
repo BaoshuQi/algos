@@ -10,5 +10,3 @@ class Solution(object):
                 return False
             last = i
         return True
-
-print(Solution.hasAlternatingBits(Solution(), 4))
